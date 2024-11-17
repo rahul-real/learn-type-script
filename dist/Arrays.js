@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const superHeros = [];
+const superHero = [];
+superHeros.push(1);
+console.log(superHeros);
+const allUser = [];
+allUser.push({ name: "", isActive: false });
+allUser.push({ name: "Rahul", isActive: true });
+console.log(allUser);

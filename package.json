@@ -1,0 +1,14 @@
+{
+  "name": "learn-type-script",
+  "version": "1.0.0",
+  "description": "Learning Type Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
